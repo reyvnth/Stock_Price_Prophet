@@ -7,7 +7,7 @@ In this project, I explore the use of Facebook Prophet, a forecasting tool, to p
 - [Introduction](#introduction)
 - [Data Collection](#data-collection)
 - [Model Training](#model-training)
-- [Comparison and Visualization](#comparison-and-visualization)
+- [Stock Analysis and Forecasting](#Stock Analysis and Forecast)
 - [Conclusion](#conclusion)
 
 ## Introduction
