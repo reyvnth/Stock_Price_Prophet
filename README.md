@@ -5,9 +5,10 @@ In this project, I explore the use of Facebook Prophet, a forecasting tool, to p
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Data Collection](#data-collection)
+- [Data Collection](#data-gathering)
+- [Data Visualization using Plotly](#data-visualization-using-plotly)
 - [Model Training](#model-training)
-- [Stock Analysis and Forecasting](#Stock Analysis and Forecast)
+- [Stock Analysis and Forecasting](#stock-analysis-and-forecast)
 - [Conclusion](#conclusion)
 
 ## Introduction
